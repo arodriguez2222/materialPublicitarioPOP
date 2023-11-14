@@ -10,7 +10,7 @@ Este repositorio contiene los documentos de trabajo para suplir la necesidad de 
 
 De acuerdo con el documento [Descripción de la necesidad](CasodeusoDesarrolladorLowCode.pdf) se desarrolló el siguiente diagrama de casos de uso:
 
-![Casos de Uso](recursos\\casosdeuso.png)
+![Casos de Uso](recursos/casosdeuso.png)
 
 <p style = "text-align: center">
 Diagrama de casos de uso
@@ -24,7 +24,7 @@ El diagrama presenta una solución abstracta a la necesidad planteada y toma en 
 
 **NOTA:** Cualquier solución se debe alinear a los formatos y procedimientos del área de tecnología de la compañía.
 
-![Diagrama de flujo solución](recursos\\diagramaFlujo)
+![Diagrama de flujo solución](recursos/diagramaFlujo)
 
 <p style = "text-align: center">
 Diagrama de flujo - propuesta solución
@@ -43,7 +43,7 @@ Junto al equipo de desarrollo se bosqueja la implementación de la solución pro
 
 - Trabajo desarrollo, test y despliegue en Azure DevOps.
 
-![Arquitectura Propuesta](recursos\\arquitectura_propuesta)
+![Arquitectura Propuesta](recursos/arquitectura_propuesta)
 
 <p style = "text-align: center">
 Arquitectura Propuesta
